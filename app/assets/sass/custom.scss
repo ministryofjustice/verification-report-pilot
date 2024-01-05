@@ -1,6 +1,6 @@
-.relatedcontent{
+.related-content{
   &__top-border{
-    border-top: 5px solid black;
+    border-top: 5px solid govuk-colour("blue");
     padding-top: govuk-spacing(3);
   }
 }
